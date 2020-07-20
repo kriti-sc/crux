@@ -1,3 +1,10 @@
 = Home Page
 
 This is the home page.
+
+Check out the other sections:
+
+* xref:concepts/index.adoc[concepts]
+* xref:tutorials/index.adoc[tutorials]
+
+Check out the xref:crux-docs-versioned:ROOT:index.adoc[reference section].
