@@ -1,3 +1,4 @@
 = Tutorial Home
+:page-layout: homepage
 
 This is the tutorials home page, check out xref:tutorials/example_tutorial.adoc[the other file]

@@ -1,3 +1,4 @@
 = Concept Example
+:page-layout: homepage
 
 Example concept page.
